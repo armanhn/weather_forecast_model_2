@@ -1,0 +1,12 @@
+body{
+    background:url(images/img.jpg);
+    height: 100vh;
+    width: 100%;
+}
+tr{
+    background-color: rgb(164, 173, 177);
+    opacity: 0.67;
+}
+h1{
+    padding:30px;
+}
